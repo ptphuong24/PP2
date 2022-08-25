@@ -1,0 +1,1 @@
+CREATE TABLE book_list (Id INTEGER PRIMARY KEY, Author TEXT, Year INTEGER)
